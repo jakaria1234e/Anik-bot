@@ -3,7 +3,7 @@ module.exports.config = {
   prefix: true,
   version: "1.0.0",
   permission: 0,
-  credits: "Anik",
+  credits: "Jakaria",
   description: "Change the thread color continuously like a rainbow",
   category: "System",
   usages: "rainbow",
