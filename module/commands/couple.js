@@ -6,7 +6,7 @@ module.exports.config = {
     name: "couple",
     version: "1.0.0",
     permission: 0,
-    credit: "Anik"
+    credit: "Jakaria"
 };
 
 module.exports.run = async ({ api, event, args }) => {
