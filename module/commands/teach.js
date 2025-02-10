@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "teach",
 	version: "1.0.0",
 	permission: 0,
-	credits: "Anik",
+	credits: "Jakaria",
 	prefix: true,
 	description: "",
 	category: "",
