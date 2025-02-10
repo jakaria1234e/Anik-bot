@@ -3,7 +3,7 @@ module.exports.config = {
     description: "all group information",
     permission: 0,          
     prefix: true,
-    credit: "Anik",       
+    credit: "Jakaria",       
     cooldown: 5,
 }
 
