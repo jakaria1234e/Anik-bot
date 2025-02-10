@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "out",
   version: "1.0.0",
-  credit: "Anik",
+  credit: "Jakaria",
   description: "Make the bot leave the group",
   permission: 2,  
   prefix: true,
