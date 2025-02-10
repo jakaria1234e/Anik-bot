@@ -5,7 +5,7 @@ module.exports.config = {
     name: "help",
     description: "Displays all available commands and events",
     permission: 0,
-    "credit": "Anik",
+    "credit": "Jakaria",
     prefix: true,
     cooldown: 5,
 };
