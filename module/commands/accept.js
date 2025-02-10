@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0",
   prefix: true,
   permission: 0,
-  credits: "Anik",
+  credits: "Jakaria",
   description: "Accept friend request if sent to the bot",
   category: "admin",
   usages: "/accept",
