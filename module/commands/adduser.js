@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0",
   prefix: true,
   permission: 0,
-  credits: "Anik",
+  credits: "Jakaria",
   description: "গ্রুপে নতুন ইউজার এড করার জন্য",
   category: "group",
   usages: "/add userId",
