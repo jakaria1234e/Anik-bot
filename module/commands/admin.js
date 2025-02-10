@@ -36,7 +36,7 @@ var link = ["https://i.postimg.cc/j5MM8dgn/Picsart-24-12-23-11-23-30-237.jpg",
 
 ❣️❤️ENJOY MUCH MUCH ❤️❣️
 
-❌THis Bot Made By : MOHAMMAD ANIK❤️❣️
+❌THis Bot Made By : JAKARIA❤️❣️
 
 🔰THIS IS BANGLA AI BOT 🔰
 
@@ -46,13 +46,13 @@ BOT NAME : ${global.config.BOTNAME}
 
 🌺ব্যবহারে মানুষ চেনা যায় ✔️
 
-⚠️BOT: ADMIN: MOHAMMAD ANIK⚠️
+⚠️BOT: ADMIN: Boss Jakaria⚠️
 
-⚠️BOT:MAIN ADMIN: MOHAMMAD ANIK⚠️
+⚠️BOT:MAIN ADMIN: Boss Jakaria⚠️
 
-⚠️WHATSAPP: wa.me/+601161213515⚠️
+⚠️WHATSAPP: wa.me/+966566818859⚠️
 
-⛔FACEBOOK : https://www.facebook.com/LostFragmentX
+⛔FACEBOOK : https://www.facebook.com/jakaria59r?mibextid=ZbWKwL
 
 🕌💪 POWER OF MUSLIM 🕋🕌
 
