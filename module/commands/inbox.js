@@ -3,7 +3,7 @@ module.exports.config = {
     description: "admin information",
     permission: 0,          
     prefix: true,
-    credit: "anik",
+    credit: "Jakaria",
     cooldown: 5,
 }
 
